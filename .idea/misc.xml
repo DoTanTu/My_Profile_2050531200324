@@ -4,6 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.184" />
+        <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable/edit_button_click_lg.xml" value="0.2585" />
+        <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable/edit_button_lg.xml" value="0.2585" />
+        <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable/edit_editext_lg.xml" value="0.2585" />
+        <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable/edit_text_button_lg.xml" value="0.2545" />
         <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable/ic_add.xml" value="0.184" />
         <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable/ic_baseline_arrow_back_ios_24.xml" value="0.184" />
         <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.184" />
@@ -13,9 +17,14 @@
         <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable/ic_person.xml" value="0.184" />
         <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable/ic_school.xml" value="0.184" />
         <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable/ic_shopping.xml" value="0.184" />
+        <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/drawable/ic_view_bg.xml" value="0.2585" />
+        <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/layout/activity_sign_up.xml" value="0.16418918918918918" />
+        <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/layout/activity_start.xml" value="0.1" />
         <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/layout/item_add.xml" value="0.264" />
-        <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/layout/item_email.xml" value="0.16" />
+        <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/layout/item_email.xml" value="0.264" />
+        <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/layout/item_email_lg.xml" value="0.253125" />
         <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/layout/item_image.xml" value="0.264" />
         <entry key="..\:/HocKy_1_Nam3/My_Android_Project/app/src/main/res/layout/item_info.xml" value="0.264" />
       </map>
