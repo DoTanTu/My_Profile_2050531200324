@@ -45,8 +45,8 @@ public class LoginActivity extends AppCompatActivity {
 
                 String userName_login = "DoTanTu";
                 String passWord_login = "12345";
-                if(User.equals(userName_login) && Pass.equals(passWord_login)) {
-                    directMain();
+                if(User.equals(userName_login)==true && Pass.equals(passWord_login)==true) {
+                    directHome();
                 }else
                 {
                     if(User.equals("") || Pass.equals(""))
@@ -62,8 +62,8 @@ public class LoginActivity extends AppCompatActivity {
 
 
     }
-    public void directMain(){
-        Intent intent = new Intent(LoginActivity.this, MainActivity.class);
+    public void directHome(){
+        Intent intent = new Intent(LoginActivity.this, HomeActivity.class);
         startActivity(intent);
     }
     public void directSignUp(){

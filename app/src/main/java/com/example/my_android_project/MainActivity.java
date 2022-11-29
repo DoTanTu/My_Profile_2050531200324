@@ -3,11 +3,9 @@ package com.example.my_android_project;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
-import android.graphics.Paint;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.ImageView;
-import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     ImageView imgView;
@@ -26,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
     public void ImageClick(){
-        Intent intent = new Intent(MainActivity.this, LoginActivity.class);
+        Intent intent = new Intent(MainActivity.this, HomeActivity.class);
         startActivity(intent);
 
     }
